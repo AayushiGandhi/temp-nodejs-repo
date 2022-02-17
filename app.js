@@ -16,3 +16,8 @@ const _ = require('lodash');
 const items = [1, [2, [3, [4, 5], 6]]]
 const flat_items = _.flattenDeep(items)
 console.log(flat_items)
+console.log("hello world")
+console.log("hiiiiiiiii")
+//nodemon is used to restart our application
+
+//npm i nodemon --D
